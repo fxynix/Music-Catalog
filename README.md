@@ -5,4 +5,4 @@
 
 
 # Sonar Cloud
-Sonar(https://sonarcloud.io/project/overview?id=fxynix_Music-Catalog)
+[Sonar](https://sonarcloud.io/project/overview?id=fxynix_Music-Catalog)
